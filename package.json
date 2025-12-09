@@ -1,0 +1,10 @@
+{
+  "name": "api-mock-server",
+  "version": "1.0.0",
+  "description": "API mocking server for testing and development by L8ab Systems",
+  "main": "src/apimockserver.js",
+  "scripts": {
+    "start": "node src/apimockserver.js"
+  },
+  "dependencies": {}
+}
